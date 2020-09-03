@@ -55,19 +55,3 @@ sqli_lab
 </ol>
 
 <p>lab is ready Enjoy the sqli_lab.</p>
-
-<hr>
-
-<h4>Contact with Me:</h4>
-
-<a href="https://twitter.com/mehedi5531" target="_blank">twitter</a><br>
-<a href="https://www.facebook.com/profile.php?id=100003299310540" target="_blank">facebook</a><br>
-
-<hr>
-
-<h4>Contact with us:<h/4>
-
-<a href="http://www.ubhteam.org" target="_blank">Website</a><br>
-<a href="http://www.facebook.com/groups/united.bangladeshi.hacker" target="_blank">FB Group</a><br>
-<a href="http://www.facebook.com/UBH.Official" target="_blank">Official FB Page</a><br>
-<a href="http://www.facebook.com/ubhteam.org" target="_blank">Official FB Page (UBH Team)</a><br>
